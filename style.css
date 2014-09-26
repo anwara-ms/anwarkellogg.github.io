@@ -1,9 +1,9 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
-  font-weight: 300;
-  background: url(linedpaper.png) repeat;
+  font-weight: 500;
+  background: url(bg2.jpg)repeat;
 }
 #wrapper {
-  width: 960px;
-  margin: 20px auto;
+  width: 1080px;
+  margin: 30px auto;
 }
