@@ -1,9 +1,12 @@
-body {
-  font-family: 'helvetica neue', arial, sans-serif;
-  font-weight: 500;
-  background: url(bg3.jpg)repeat;
-}
 #wrapper {
   width: 1080px;
-  margin: 30px auto;
+  margin: 6px auto;
+}
+
+body{
+	font-family:'Dosis',arial;
+	background-image: url(jake.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-attachment: scroll;
 }
