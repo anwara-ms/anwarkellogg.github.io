@@ -1,11 +1,25 @@
-#wrapper {
-  width: 1080px;
-  margin: 6px auto;
+.jumbotron{
+	background-color: #9999CC;
 }
 
+h4{
+	font-size: 20px;
+	color: red;
+
+	text-align: center;
+	line-height: 25px;
+	}
+
+h3{
+	font-size: 23px;
+	color: Black;
+	font-weight: bold;
+	text-align: center;
+	line-height: 25px;
+	}
 body{
 	font-family:'Dosis',arial;
-	background-image: url(jake.jpg);
+	/*background-image: url(jake.jpg);*/
 	background-size: cover;
 	background-position: center center;
 	background-attachment: scroll;
