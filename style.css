@@ -1,26 +1,35 @@
 .jumbotron{
 	background-color: #9999CC;
 }
-
+h2{
+	font-size: 35px;
+	color: Black;
+	font-weight: bold;
+	line-height: 20px;
+	}
 h4{
 	font-size: 20px;
-	color: red;
-
+	color: white;
 	text-align: center;
 	line-height: 25px;
 	}
 
 h3{
-	font-size: 23px;
+	font-family: 'Marck Script', cursive;
+	font-size: 20 px;
 	color: Black;
 	font-weight: bold;
-	text-align: center;
-	line-height: 25px;
+	line-height: 20px;
 	}
+
 body{
 	font-family:'Dosis',arial;
 	/*background-image: url(jake.jpg);*/
 	background-size: cover;
 	background-position: center center;
 	background-attachment: scroll;
+}
+
+div{
+   margin-bottom:20px;
 }
